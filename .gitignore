@@ -84,3 +84,7 @@ Sessionx.vim
 tags
 # Persistent undo
 [._]*.un~
+
+
+# Added by vscode
+.vscode/
